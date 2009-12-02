@@ -1,0 +1,13 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2876
+
+This is my personal Html menu for GVim. I started to write it for 6.x release and updated it everytime I needed ;)
+It includes :
+
+* a "new blank Html" feature, 
+* all Heading tags, 
+* formatting text with tags most used (not all...) and font/color tags, 
+* function to insert Tables, List Item, special chars
+* option to indent source page 
+
+and more...
+
